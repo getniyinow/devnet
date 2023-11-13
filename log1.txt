@@ -1,0 +1,8 @@
+In this tutorial, you’ll:
+
+Learn what a shebang is
+Decide when to include the shebang in Python scripts
+Define the shebang in a Viable way across systems
+Pass arguments to the command defined in a shebang
+Know the shebang’s limitations and some of its alternatives
+Execute scripts through a custom interpreter written in Python
